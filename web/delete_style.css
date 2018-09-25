@@ -1,0 +1,30 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 90%;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    padding-right: 10em;
+}
+
+
+#confirmation{
+	margin-top: 2em;
+}
+
+.jumbotron{
+	padding-top: 0px;
+	margin-right: 20em;
+	margin-left: 15em;
+        background-color: white;
+	
+}
+.btn-danger{
+	margin-left: 5em;
+}
+.btn-default{
+	margin-left: 2em;
+}

@@ -1,0 +1,57 @@
+body{
+	background-image:url('https://www.translatemedia.com/wp-content/uploads/2014/08/Corporate-culture-pic.jpg');
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-height:100%;
+
+}
+.jumbotron{
+	width: 40%;
+	margin-top: 5%;
+	margin-left: 32.5%;	 
+	background: rgba(255,255,255,0.7);
+	border-radius:5px;
+        padding-bottom: 4em;
+}
+#title{
+	font-family: Lalezar;
+	font-size: 60px;	 
+}
+#input-form{
+	margin-left: 6em;
+	margin-right: 6em;
+}
+#sign-in-button{
+	background-color: #2672ae;
+	box-shadow: 3px 3px 10px grey;
+}
+@media only screen and (max-width: 200px){
+	body{
+		background-size: 200px;
+
+	}
+}
+@media only screen and (max-width: 400px){
+	body{
+		background-size: 400px;
+		
+	}
+}
+@media only screen and (max-width: 600px){
+	body{
+		background-size: 600px;
+		
+	}
+}
+@media only screen and (max-width: 800px){
+	body{
+		background-size: 800px;
+		
+	}
+}
+@media only screen and (max-width: 1000px){
+	body{
+		background-size: 1000px;
+		
+	}
+}
