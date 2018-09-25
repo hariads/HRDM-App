@@ -1,0 +1,17 @@
+SMAP
+fetchDepartment_jsp.java
+JSP
+*S JSP
+*F
++ 0 fetchDepartment.jsp
+fetchDepartment.jsp
+*L
+1,2:46,2
+3,81:50
+84,33:132
+116,4:165
+120,2:169,3
+122,5:175
+126,6:180
+131,33:186
+*E

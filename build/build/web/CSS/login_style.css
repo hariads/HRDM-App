@@ -1,0 +1,23 @@
+.col-centered{
+	margin: 0 auto;
+	vertical-align: middle;
+}
+h1,h2{
+	font-family: Arvo;
+	text-align: center;
+
+}
+
+.btn-default{
+	margin: 0 auto;
+}
+.jumbotron{
+	background-image: url("https://images.pexels.com/photos/899321/pexels-photo-899321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+body{
+	background-image: url("https://images.pexels.com/photos/6564/black-and-white-iphone-smartphone-desk.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	background-repeat: no-repeat; 
+    }
+.row{
+	margin-top: 4em;
+}
