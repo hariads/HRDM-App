@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-####Below listed are the prerequisites for the project
+Below listed are the prerequisites for the project
 
 * MySQL
 * Apache Tomcat Server
@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-####Below are the steps to be followed for the installation:
+Below are the steps to be followed for the installation:
 
 * Upload the sql file on your MySQL database.
 * Open the project and its content in a IDE that you prefer(Recommended is NetBeans)
